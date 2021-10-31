@@ -8,7 +8,7 @@ This is a statistical analysis of the temperature trends for the months of June 
 
 ## Results
 
-The Summary Statistics for June, and December, were generated via teh following steps:
+The temperature Statistics for June, and December, were generated via the following steps:
 
 - The date column of the Measurements table in the hawaii.sqlite database has been filtered to retrieve all the temperatures for the month of June. 
 - The temperatures were then converted to a list, 
@@ -16,14 +16,15 @@ The Summary Statistics for June, and December, were generated via teh following 
 - Summary statistics were the generated from the above data frame, as shown below:
  
 
- ![Del 1_Statistics for the month of June](https://user-images.githubusercontent.com/89427676/139596861-db780f95-93b2-419e-92cd-1242268fdd56.PNG)  ![Del 2_Statistics for teh month of December](https://user-images.githubusercontent.com/89427676/139596872-0e4207e1-144a-4dcd-a507-89a4361ee328.PNG)
+ ![Del 1_Statistics for the month of June](https://user-images.githubusercontent.com/89427676/139596861-db780f95-93b2-419e-92cd-1242268fdd56.PNG)
+ ![Del 2_Statistics for teh month of December](https://user-images.githubusercontent.com/89427676/139596872-0e4207e1-144a-4dcd-a507-89a4361ee328.PNG)
 
- 
-II. The Summary Statistics for December
+ As evidenced above,
+ - The average temperature in June(74.94 defree F) is comparatively greater than that in December (71.04 degree F)
+ - Standard deviation is slightly greater in December indicating comparatively higher temperature fuctuations than that in June
+ - December appears to be colder than June as indicated by the minimum and maximum temperatures (56 degree F to compared to 83 degree F compared to 64 degree F to  compared to 85 degree F, recorded in June)
+ - June month has more temperature data than December
 
-Results: There is a bulleted list that addresses the three key differences in weather between June and December.
- Use images as support where needed.
-As shown below, 
 
 Summary: Provide a high-level summary of the results
 There is a high-level summary of the results
