@@ -27,7 +27,7 @@ The temperature Statistics for June, and December, were generated via the follow
  - June month has more temperature data than December
  - Additional queries for analysis purposes was also done (precipitation data for June and December)
 
-Summary: Provide a high-level summary of the results
+## Summary
 
 As per my analysis of the temperature data for the month of June and December, the average temperature for both months appears to be around 70-75 degree F. Though December is slightly colder than June, the difference in temperatures are not significant. The average temperature observed in both months are warm enough for surfing. However, additional queries were created to find teh precipitaion measurements for June and December. It was then found that precipitation in December was more than that for June. Higher precipitation means higher rains. Considering both the temperature and precipitation analysis for June and December, June is found to be more suitable for surfing business as indicated by low rains, and slightly better temperatures when compared to December data.
 
