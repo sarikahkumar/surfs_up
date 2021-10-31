@@ -23,7 +23,7 @@ The temperature Statistics for June, and December, were generated via the follow
  
  - The average temperature in June(74.94 defree F) is slightlyly greater than that in December (71.04 degree F)
  - Standard deviation is slightly greater in December indicating comparatively higher temperature fuctuations than that in June
- - December appears to be slightly colder than June as indicated by the minimum and maximum temperatures (56 degree F to compared to 83 degree F compared to 64 degree F to  compared to 85 degree F, recorded in June)
+ - December appears to be slightly colder than June as indicated by the minimum and maximum temperatures (56 degree F compared to 83 degree F compared to 64 degree F to  compared to 85 degree F, recorded in June)
  - June month has more temperature data than December
  - Additional queries for analysis purposes was also done (precipitation data for June and December)
 
