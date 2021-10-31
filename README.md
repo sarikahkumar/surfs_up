@@ -19,19 +19,16 @@ The temperature Statistics for June, and December, were generated via the follow
  ![Del 1_Statistics for the month of June](https://user-images.githubusercontent.com/89427676/139596861-db780f95-93b2-419e-92cd-1242268fdd56.PNG)
  ![Del 2_Statistics for teh month of December](https://user-images.githubusercontent.com/89427676/139596872-0e4207e1-144a-4dcd-a507-89a4361ee328.PNG)
 
- Results of the analysis as evidenced above are as follows,--
+ Results of the analysis as evidenced above are as follows,
  
- - The average temperature in June(74.94 defree F) is comparatively greater than that in December (71.04 degree F)--
- - Standard deviation is slightly greater in December indicating comparatively higher temperature fuctuations than that in June--
- -  December appears to be colder than June as indicated by the minimum and maximum temperatures (56 degree F to compared to 83 degree F compared to 64 degree F to  compared to 85 degree F, recorded in June)--
- - June month has more temperature data than December--
-
+ - The average temperature in June(74.94 defree F) is slightlyly greater than that in December (71.04 degree F)
+ - Standard deviation is slightly greater in December indicating comparatively higher temperature fuctuations than that in June
+ - December appears to be slightly colder than June as indicated by the minimum and maximum temperatures (56 degree F to compared to 83 degree F compared to 64 degree F to  compared to 85 degree F, recorded in June)
+ - June month has more temperature data than December
+ - Additional queries for analysis purposes was also done (precipitation data for June and December)
 
 Summary: Provide a high-level summary of the results
-There is a high-level summary of the results
- and there are two additional queries to perform to 
-gather more weather data for June and December.
-There are more measurements in June than in December (1700 vs 1517)
-Average temperature in December 3.9 degrees lower than in June (71˚F vs 74.9˚F).
-Temperature in December is a little bit volatile than in June (std 3.74 vs 3.25)
-Some cold days happened in December (min 56˚F), but most of the time temperature is between 69˚F and 74˚F.
+
+As per my analysis of the temperature data for the month of June and December, the average temperature for both months appears to be around 70-75 degree F. Though December is slightly colder than June, the difference in temperatures are not significant. The average temperature observed in both months are warm enough for surfing. However, additional queries were created to find teh precipitaion measurements for June and December. It was then found that precipitation in December was more than that for June. Higher precipitation means higher rains. Considering both the temperature and precipitation analysis for June and December, June is found to be more suitable for surfing business as indicated by low rains, and slightly better temperatures when compared to December data.
+
+
